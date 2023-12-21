@@ -18,10 +18,7 @@ article p:last-child {
 }
 
 /* Style the unordered list */
-ul {
-    list-style: none;
-    padding: 0;
-}
+
 
 ul li {
     width: 50%;
